@@ -1,0 +1,79 @@
+.main{
+    background-color: #eee;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Open Sans',
+    sans-serif;
+}
+
+.heading-text{
+    font-size: 65px;
+    margin: 20px 0 0 0;
+    font-weight: 900;
+    background: linear-gradient(90deg, #07effd 0%, #005fff 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 1.5rem;
+    background-position: 0 90%;
+    transition: all 0.3s ease-in-out;
+}
+
+.heading-text:hover{
+    background-size: 100% 90%;
+}
+
+.heading-sub{
+    font-size: 20px;
+    margin: 0px auto 10px;
+}
+
+.img-background{
+    background-color: white;
+    border-radius: 10px;
+    margin: 0;
+    padding: 17px 0 0 0;
+}
+
+.img{
+    border-radius: 10px;
+}
+
+.img-caption{
+    line-height: 60px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.timeline-heading{
+    font-size: 25px;
+    padding: 30px 0 15px 0;
+}
+
+.timeline{
+    max-width: 70%;
+    margin: 20px auto 0px;
+}
+
+.timeline-items{
+    font-size: 20px;
+    text-align: justify;
+    line-height: 35px;
+    margin: 20px;
+}
+
+.timeline-list-item{
+    margin: 20px;
+}
+
+.quote{
+    max-width: 67%;
+    margin: 60px auto 0;
+    font-size: 20px;
+    font-style: italic;
+    text-align: justify;
+}
+
+.wiki{
+    font-size: 25px;
+    margin: 50px 0 0 0;
+}
